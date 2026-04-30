@@ -4,4 +4,4 @@
 <h3>Desktop</h3>
 <img src="https://raw.githubusercontent.com/alef-fullstack/projeto-responsivo-2/refs/heads/master/img/desktop.png" width="400px" height="300px" alt="img-desktop"/>
 <h4>Mobile</h4>
-<img src="https://raw.githubusercontent.com/alef-fullstack/projeto-responsivo-2/refs/heads/master/img/mobile.png" width="200px" height="320px" alt="img-mobile" />
+<img src="https://raw.githubusercontent.com/alef-fullstack/projeto-responsivo-2/refs/heads/master/img/mobile.png" width="180px" height="260px" alt="img-mobile" />
